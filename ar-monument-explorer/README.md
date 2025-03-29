@@ -20,6 +20,7 @@ An augmented reality web platform that scans QR codes at monuments and displays 
    - Or use tools like ngrok to tunnel a local server with HTTPS
 
 3. Access the application via HTTPS URL on your mobile device
+4. python -m http.server 8000
 
 ### Testing with QR Codes
 1. Open the QR generator page (`qr-generator.html`)
